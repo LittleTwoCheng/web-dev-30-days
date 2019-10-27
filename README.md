@@ -41,7 +41,7 @@ This will deploy the change via surge CDN service.
 
 ## Contentful data
 
-This Data fo this application come from contentful. You can find the contentful data at `./contentful.json`.
+The data of this application come from contentful. You can find the data at `./contentful.json`.
 
 It will only include `contentTypes` and `locales`. Please noted unnecessary data have been removed, so I am not sure if this can still work for `contentful space import`.
 
