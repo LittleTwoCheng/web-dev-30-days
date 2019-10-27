@@ -4,6 +4,10 @@ This is basically for my wife. She would like to learn Web Development. I hope t
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo
+
+https://web-dev-30days.netlify.com
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -34,3 +38,11 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `yarn deploy`
 
 This will deploy the change via surge CDN service.
+
+## Contentful data
+
+This Data fo this application come from contentful. You can find the contentful data at `./contentful.json`.
+
+It will only include `contentTypes` and `locales`. Please noted unnecessary data have been removed, so I am not sure if this can still work for `contentful space import`.
+
+Detial please check this page https://www.contentful.com/developers/docs/tutorials/cli/import-and-export/
