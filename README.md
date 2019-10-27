@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a001091c-3d75-4e4a-b207-bbc934ad9867/deploy-status)](https://app.netlify.com/sites/web-dev-30days/deploys)
+
 This is basically for my wife. She would like to learn Web Development. I hope this project can help.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
